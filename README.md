@@ -83,7 +83,3 @@ and a full correlation heatmap) as PNG files.
 - Phosphorus and potassium are strongly positively correlated (~0.86).
 - Soil and climate variables are more informative for crop suitability
   when considered together rather than individually.
-
-## Author
-
-<Pratikshya Prusty>
